@@ -1,0 +1,480 @@
+question_concept_id,question,answer_concept_id,answer
+1585711,Overall Health: General Health,903096,PMI: Skip
+1585711,Overall Health: General Health,1585712,General Health: Excellent
+1585711,Overall Health: General Health,1585713,General Health: Very Good
+1585711,Overall Health: General Health,1585714,General Health: Good
+1585711,Overall Health: General Health,1585715,General Health: Fair
+1585711,Overall Health: General Health,1585716,General Health: Poor
+1585717,Overall Health: General Quality,903096,PMI: Skip
+1585717,Overall Health: General Quality,1585718,General Quality: Excellent
+1585717,Overall Health: General Quality,1585719,General Quality: Very Good
+1585717,Overall Health: General Quality,1585720,General Quality: Good
+1585717,Overall Health: General Quality,1585721,General Quality: Fair
+1585717,Overall Health: General Quality,1585722,General Quality: Poor
+1585723,Overall Health: General Physical Health,903096,PMI: Skip
+1585723,Overall Health: General Physical Health,1585724,General Physical Health: Excellent
+1585723,Overall Health: General Physical Health,1585725,General Physical Health: Very Good
+1585723,Overall Health: General Physical Health,1585726,General Physical Health: Good
+1585723,Overall Health: General Physical Health,1585727,General Physical Health: Fair
+1585723,Overall Health: General Physical Health,1585728,General Physical Health: Poor
+1585729,Overall Health: General Mental Health,903096,PMI: Skip
+1585729,Overall Health: General Mental Health,903626,General Mental Health: Excellent
+1585729,Overall Health: General Mental Health,1585730,General Mental Health: Excllent
+1585729,Overall Health: General Mental Health,1585731,General Mental Health: Very Good
+1585729,Overall Health: General Mental Health,1585732,General Mental Health: Good
+1585729,Overall Health: General Mental Health,1585733,General Mental Health: Fair
+1585729,Overall Health: General Mental Health,1585734,General Mental Health: Poor
+1585735,Overall Health: Social Satisfaction,903096,PMI: Skip
+1585735,Overall Health: Social Satisfaction,1585736,Social Satisfaction: Excellent
+1585735,Overall Health: Social Satisfaction,1585737,Social Satisfaction: Very Good
+1585735,Overall Health: Social Satisfaction,1585738,Social Satisfaction: Good
+1585735,Overall Health: Social Satisfaction,1585739,Social Satisfaction: Fair
+1585735,Overall Health: Social Satisfaction,1585740,Social Satisfaction: Poor
+1585741,Overall Health: Everyday Activities,903096,PMI: Skip
+1585741,Overall Health: Everyday Activities,1585742,Everyday Activities: Completely
+1585741,Overall Health: Everyday Activities,1585743,Everyday Activities: Mostly
+1585741,Overall Health: Everyday Activities,1585744,Everyday Activities: Moderately
+1585741,Overall Health: Everyday Activities,1585745,Everyday Activities: A Little
+1585741,Overall Health: Everyday Activities,1585746,Everyday Activities: Not At All
+1585747,Overall Health: Average Pain 7 Days,0,No matching concept
+1585747,Overall Health: Average Pain 7 Days,903096,PMI: Skip
+1585747,Overall Health: Average Pain 7 Days,,0
+1585747,Overall Health: Average Pain 7 Days,,1
+1585747,Overall Health: Average Pain 7 Days,,2
+1585747,Overall Health: Average Pain 7 Days,,3
+1585747,Overall Health: Average Pain 7 Days,,4
+1585747,Overall Health: Average Pain 7 Days,,5
+1585747,Overall Health: Average Pain 7 Days,,6
+1585747,Overall Health: Average Pain 7 Days,,7
+1585747,Overall Health: Average Pain 7 Days,,8
+1585747,Overall Health: Average Pain 7 Days,,9
+1585747,Overall Health: Average Pain 7 Days,,10
+1585748,Overall Health: Average Fatigue 7 Days,903096,PMI: Skip
+1585748,Overall Health: Average Fatigue 7 Days,1585749,Average Fatigue 7 Days: None
+1585748,Overall Health: Average Fatigue 7 Days,1585750,Average Fatigue 7 Days: Mild
+1585748,Overall Health: Average Fatigue 7 Days,1585751,Average Fatigue 7 Days: Moderate
+1585748,Overall Health: Average Fatigue 7 Days,1585752,Average Fatigue 7 Days: Severe
+1585748,Overall Health: Average Fatigue 7 Days,1585753,Average Fatigue 7 Days: Very Severe
+1585754,Overall Health: General Social,903096,PMI: Skip
+1585754,Overall Health: General Social,1585755,General Social: Excellent
+1585754,Overall Health: General Social,1585756,General Social: Very Good
+1585754,Overall Health: General Social,1585757,General Social: Good
+1585754,Overall Health: General Social,1585758,General Social: Fair
+1585754,Overall Health: General Social,1585759,General Social: Poor
+1585760,Overall Health: Emotional Problem 7 Days,903096,PMI: Skip
+1585760,Overall Health: Emotional Problem 7 Days,1585761,Emotional Problem 7 Days: Never
+1585760,Overall Health: Emotional Problem 7 Days,1585762,Emotional Problem 7 Days: Rarely
+1585760,Overall Health: Emotional Problem 7 Days,1585763,Emotional Problem 7 Days: Sometimes
+1585760,Overall Health: Emotional Problem 7 Days,1585764,Emotional Problem 7 Days: Often
+1585760,Overall Health: Emotional Problem 7 Days,1585765,Emotional Problem 7 Days: Always
+1585766,Overall Health: Medical Form Confidence,903096,PMI: Skip
+1585766,Overall Health: Medical Form Confidence,1585767,Medical Form Confidence: Extremely
+1585766,Overall Health: Medical Form Confidence,1585768,Medical Form Confidence: Quite A Bit
+1585766,Overall Health: Medical Form Confidence,1585769,Medical Form Confidence: Somewhat
+1585766,Overall Health: Medical Form Confidence,1585770,Medical Form Confidence: A Little Bit
+1585766,Overall Health: Medical Form Confidence,1585771,Medical Form Confidence: Not At All
+1585772,Overall Health: Health Material Assistance,903096,PMI: Skip
+1585772,Overall Health: Health Material Assistance,1585773,Health Material Assistance: Always
+1585772,Overall Health: Health Material Assistance,1585774,Health Material Assistance: Often
+1585772,Overall Health: Health Material Assistance,1585775,Health Material Assistance: Sometimes
+1585772,Overall Health: Health Material Assistance,1585776,Health Material Assistance: Occasionally
+1585772,Overall Health: Health Material Assistance,1585777,Health Material Assistance: Never
+1585778,Overall Health: Difficult Understand Info,903096,PMI: Skip
+1585778,Overall Health: Difficult Understand Info,1585779,Difficult Understand Info: Always
+1585778,Overall Health: Difficult Understand Info,1585780,Difficult Understand Info: Often
+1585778,Overall Health: Difficult Understand Info,1585781,Difficult Understand Info: Sometimes
+1585778,Overall Health: Difficult Understand Info,1585782,Difficult Understand Info: Occasionally
+1585778,Overall Health: Difficult Understand Info,1585783,Difficult Understand Info: Never
+1585784,Overall Health: Menstrual Stopped,903079,PMI: Prefer Not To Answer
+1585784,Overall Health: Menstrual Stopped,903096,PMI: Skip
+1585784,Overall Health: Menstrual Stopped,1585785,Menstrual Stopped: Periods Havent Stopped
+1585784,Overall Health: Menstrual Stopped,1585786,Menstrual Stopped: Yes None
+1585784,Overall Health: Menstrual Stopped,1585787,Menstrual Stopped: Yes But Hormone
+1585784,Overall Health: Menstrual Stopped,1585788,Menstrual Stopped: Not Sure Menstrual Stopped
+1585789,Yes None: Menstrual Stopped Reason,903070,PMI: Other
+1585789,Yes None: Menstrual Stopped Reason,903079,PMI: Prefer Not To Answer
+1585789,Yes None: Menstrual Stopped Reason,903092,PMI: Not Sure
+1585789,Yes None: Menstrual Stopped Reason,903096,PMI: Skip
+1585789,Yes None: Menstrual Stopped Reason,1585790,Menstrual Stopped Reason: Medication Therapy
+1585789,Yes None: Menstrual Stopped Reason,1585821,Menstrual Stopped Reason: Natural Menopause
+1585789,Yes None: Menstrual Stopped Reason,1585822,Menstrual Stopped Reason: Surgery
+1585789,Yes None: Menstrual Stopped Reason,1585823,Menstrual Stopped Reason: Endometrial Ablation
+1585791,Overall Health: Hysterectomy History,903079,PMI: Prefer Not To Answer
+1585791,Overall Health: Hysterectomy History,903096,PMI: Skip
+1585791,Overall Health: Hysterectomy History,1585792,Hysterectomy History: No
+1585791,Overall Health: Hysterectomy History,1585793,Hysterectomy History: Yes
+1585791,Overall Health: Hysterectomy History,1585794,Hysterectomy History: Not Sure
+1585795,Overall Health: Hysterectomy History Age,903096,PMI: Skip
+1585795,Overall Health: Hysterectomy History Age,2000000010,Response removed due to invalid value
+1585795,Overall Health: Hysterectomy History Age,,26
+1585795,Overall Health: Hysterectomy History Age,,30
+1585795,Overall Health: Hysterectomy History Age,,31
+1585795,Overall Health: Hysterectomy History Age,,32
+1585795,Overall Health: Hysterectomy History Age,,35
+1585795,Overall Health: Hysterectomy History Age,,36
+1585795,Overall Health: Hysterectomy History Age,,37
+1585795,Overall Health: Hysterectomy History Age,,38
+1585795,Overall Health: Hysterectomy History Age,,40
+1585795,Overall Health: Hysterectomy History Age,,41
+1585795,Overall Health: Hysterectomy History Age,,43
+1585795,Overall Health: Hysterectomy History Age,,45
+1585795,Overall Health: Hysterectomy History Age,,46
+1585795,Overall Health: Hysterectomy History Age,,50
+1585795,Overall Health: Hysterectomy History Age,,52
+1585795,Overall Health: Hysterectomy History Age,,53
+1585795,Overall Health: Hysterectomy History Age,,62
+1585795,Overall Health: Hysterectomy History Age,,27
+1585795,Overall Health: Hysterectomy History Age,,28
+1585795,Overall Health: Hysterectomy History Age,,29
+1585795,Overall Health: Hysterectomy History Age,,33
+1585795,Overall Health: Hysterectomy History Age,,34
+1585795,Overall Health: Hysterectomy History Age,,42
+1585795,Overall Health: Hysterectomy History Age,,44
+1585795,Overall Health: Hysterectomy History Age,,48
+1585795,Overall Health: Hysterectomy History Age,,49
+1585795,Overall Health: Hysterectomy History Age,,54
+1585795,Overall Health: Hysterectomy History Age,,64
+1585795,Overall Health: Hysterectomy History Age,,71
+1585795,Overall Health: Hysterectomy History Age,,25
+1585795,Overall Health: Hysterectomy History Age,,39
+1585795,Overall Health: Hysterectomy History Age,,47
+1585795,Overall Health: Hysterectomy History Age,,51
+1585795,Overall Health: Hysterectomy History Age,,55
+1585795,Overall Health: Hysterectomy History Age,,56
+1585795,Overall Health: Hysterectomy History Age,,59
+1585795,Overall Health: Hysterectomy History Age,,57
+1585795,Overall Health: Hysterectomy History Age,,67
+1585795,Overall Health: Hysterectomy History Age,,10
+1585795,Overall Health: Hysterectomy History Age,,66
+1585795,Overall Health: Hysterectomy History Age,,21
+1585795,Overall Health: Hysterectomy History Age,,72
+1585795,Overall Health: Hysterectomy History Age,,74
+1585795,Overall Health: Hysterectomy History Age,,23
+1585795,Overall Health: Hysterectomy History Age,,22
+1585795,Overall Health: Hysterectomy History Age,,24
+1585795,Overall Health: Hysterectomy History Age,,65
+1585795,Overall Health: Hysterectomy History Age,,63
+1585795,Overall Health: Hysterectomy History Age,,70
+1585795,Overall Health: Hysterectomy History Age,,60
+1585795,Overall Health: Hysterectomy History Age,,18
+1585795,Overall Health: Hysterectomy History Age,,68
+1585795,Overall Health: Hysterectomy History Age,,5
+1585795,Overall Health: Hysterectomy History Age,,58
+1585795,Overall Health: Hysterectomy History Age,,69
+1585795,Overall Health: Hysterectomy History Age,,61
+1585795,Overall Health: Hysterectomy History Age,,75
+1585795,Overall Health: Hysterectomy History Age,,19
+1585795,Overall Health: Hysterectomy History Age,,0
+1585795,Overall Health: Hysterectomy History Age,,20
+1585795,Overall Health: Hysterectomy History Age,,1
+1585795,Overall Health: Hysterectomy History Age,,3
+1585795,Overall Health: Hysterectomy History Age,,13
+1585795,Overall Health: Hysterectomy History Age,,79
+1585795,Overall Health: Hysterectomy History Age,,78
+1585795,Overall Health: Hysterectomy History Age,,73
+1585795,Overall Health: Hysterectomy History Age,,87
+1585795,Overall Health: Hysterectomy History Age,,7
+1585795,Overall Health: Hysterectomy History Age,,17
+1585795,Overall Health: Hysterectomy History Age,,4
+1585795,Overall Health: Hysterectomy History Age,,16
+1585795,Overall Health: Hysterectomy History Age,,82
+1585795,Overall Health: Hysterectomy History Age,,85
+1585795,Overall Health: Hysterectomy History Age,,12
+1585795,Overall Health: Hysterectomy History Age,,76
+1585795,Overall Health: Hysterectomy History Age,,84
+1585795,Overall Health: Hysterectomy History Age,,14
+1585795,Overall Health: Hysterectomy History Age,,6
+1585795,Overall Health: Hysterectomy History Age,,77
+1585795,Overall Health: Hysterectomy History Age,,15
+1585795,Overall Health: Hysterectomy History Age,,9
+1585795,Overall Health: Hysterectomy History Age,,93
+1585795,Overall Health: Hysterectomy History Age,,2
+1585795,Overall Health: Hysterectomy History Age,,8
+1585795,Overall Health: Hysterectomy History Age,,80
+1585795,Overall Health: Hysterectomy History Age,,94
+1585795,Overall Health: Hysterectomy History Age,,91
+1585795,Overall Health: Hysterectomy History Age,,11
+1585795,Overall Health: Hysterectomy History Age,,81
+1585795,Overall Health: Hysterectomy History Age,,86
+1585795,Overall Health: Hysterectomy History Age,,83
+1585796,Overall Health: Ovary Removal History,903079,PMI: Prefer Not To Answer
+1585796,Overall Health: Ovary Removal History,903096,PMI: Skip
+1585796,Overall Health: Ovary Removal History,1585797,Ovary Removal History: No
+1585796,Overall Health: Ovary Removal History,1585798,Ovary Removal History: Yes Sectioned
+1585796,Overall Health: Ovary Removal History,1585799,Ovary Removal History: Yes Both
+1585796,Overall Health: Ovary Removal History,1585800,Ovary Removal History: Yes Unsure
+1585796,Overall Health: Ovary Removal History,1585801,Ovary Removal History: Not Sure
+1585802,Overall Health Ovary Removal History Age,903096,PMI: Skip
+1585802,Overall Health Ovary Removal History Age,2000000010,Response removed due to invalid value
+1585802,Overall Health Ovary Removal History Age,,19
+1585802,Overall Health Ovary Removal History Age,,23
+1585802,Overall Health Ovary Removal History Age,,28
+1585802,Overall Health Ovary Removal History Age,,35
+1585802,Overall Health Ovary Removal History Age,,40
+1585802,Overall Health Ovary Removal History Age,,42
+1585802,Overall Health Ovary Removal History Age,,45
+1585802,Overall Health Ovary Removal History Age,,46
+1585802,Overall Health Ovary Removal History Age,,47
+1585802,Overall Health Ovary Removal History Age,,58
+1585802,Overall Health Ovary Removal History Age,,26
+1585802,Overall Health Ovary Removal History Age,,36
+1585802,Overall Health Ovary Removal History Age,,39
+1585802,Overall Health Ovary Removal History Age,,43
+1585802,Overall Health Ovary Removal History Age,,49
+1585802,Overall Health Ovary Removal History Age,,50
+1585802,Overall Health Ovary Removal History Age,,69
+1585802,Overall Health Ovary Removal History Age,,24
+1585802,Overall Health Ovary Removal History Age,,32
+1585802,Overall Health Ovary Removal History Age,,38
+1585802,Overall Health Ovary Removal History Age,,51
+1585802,Overall Health Ovary Removal History Age,,56
+1585802,Overall Health Ovary Removal History Age,,9
+1585802,Overall Health Ovary Removal History Age,,25
+1585802,Overall Health Ovary Removal History Age,,30
+1585802,Overall Health Ovary Removal History Age,,41
+1585802,Overall Health Ovary Removal History Age,,60
+1585802,Overall Health Ovary Removal History Age,,29
+1585802,Overall Health Ovary Removal History Age,,37
+1585802,Overall Health Ovary Removal History Age,,63
+1585802,Overall Health Ovary Removal History Age,,65
+1585802,Overall Health Ovary Removal History Age,,18
+1585802,Overall Health Ovary Removal History Age,,21
+1585802,Overall Health Ovary Removal History Age,,33
+1585802,Overall Health Ovary Removal History Age,,55
+1585802,Overall Health Ovary Removal History Age,,59
+1585802,Overall Health Ovary Removal History Age,,52
+1585802,Overall Health Ovary Removal History Age,,61
+1585802,Overall Health Ovary Removal History Age,,34
+1585802,Overall Health Ovary Removal History Age,,44
+1585802,Overall Health Ovary Removal History Age,,53
+1585802,Overall Health Ovary Removal History Age,,54
+1585802,Overall Health Ovary Removal History Age,,79
+1585802,Overall Health Ovary Removal History Age,,7
+1585802,Overall Health Ovary Removal History Age,,57
+1585802,Overall Health Ovary Removal History Age,,62
+1585802,Overall Health Ovary Removal History Age,,67
+1585802,Overall Health Ovary Removal History Age,,48
+1585802,Overall Health Ovary Removal History Age,,73
+1585802,Overall Health Ovary Removal History Age,,75
+1585802,Overall Health Ovary Removal History Age,,72
+1585802,Overall Health Ovary Removal History Age,,80
+1585802,Overall Health Ovary Removal History Age,,64
+1585802,Overall Health Ovary Removal History Age,,68
+1585802,Overall Health Ovary Removal History Age,,13
+1585802,Overall Health Ovary Removal History Age,,71
+1585802,Overall Health Ovary Removal History Age,,31
+1585802,Overall Health Ovary Removal History Age,,16
+1585802,Overall Health Ovary Removal History Age,,27
+1585802,Overall Health Ovary Removal History Age,,17
+1585802,Overall Health Ovary Removal History Age,,74
+1585802,Overall Health Ovary Removal History Age,,15
+1585802,Overall Health Ovary Removal History Age,,22
+1585802,Overall Health Ovary Removal History Age,,66
+1585802,Overall Health Ovary Removal History Age,,20
+1585802,Overall Health Ovary Removal History Age,,12
+1585802,Overall Health Ovary Removal History Age,,78
+1585802,Overall Health Ovary Removal History Age,,84
+1585802,Overall Health Ovary Removal History Age,,3
+1585802,Overall Health Ovary Removal History Age,,10
+1585802,Overall Health Ovary Removal History Age,,14
+1585802,Overall Health Ovary Removal History Age,,70
+1585802,Overall Health Ovary Removal History Age,,6
+1585802,Overall Health Ovary Removal History Age,,77
+1585802,Overall Health Ovary Removal History Age,,83
+1585802,Overall Health Ovary Removal History Age,,82
+1585802,Overall Health Ovary Removal History Age,,0
+1585802,Overall Health Ovary Removal History Age,,5
+1585802,Overall Health Ovary Removal History Age,,76
+1585802,Overall Health Ovary Removal History Age,,81
+1585802,Overall Health Ovary Removal History Age,,2
+1585802,Overall Health Ovary Removal History Age,,1
+1585802,Overall Health Ovary Removal History Age,,11
+1585802,Overall Health Ovary Removal History Age,,85
+1585802,Overall Health Ovary Removal History Age,,87
+1585802,Overall Health Ovary Removal History Age,,8
+1585802,Overall Health Ovary Removal History Age,,86
+1585802,Overall Health Ovary Removal History Age,,91
+1585802,Overall Health Ovary Removal History Age,,4
+1585802,Overall Health Ovary Removal History Age,,93
+1585802,Overall Health Ovary Removal History Age,,88
+1585803,Overall Health: Organ Transplant,903087,PMI: Dont Know
+1585803,Overall Health: Organ Transplant,903096,PMI: Skip
+1585803,Overall Health: Organ Transplant,1585804,Organ Transplant: Yes
+1585803,Overall Health: Organ Transplant,1585805,Organ Transplant: No
+1585806,Organ Transplant: Organ Transplant Description,903096,PMI: Skip
+1585806,Organ Transplant: Organ Transplant Description,1585807,Organ Transplant Description: Other Organ
+1585806,Organ Transplant: Organ Transplant Description,1585808,Organ Transplant Description: Other Tissue
+1585806,Organ Transplant: Organ Transplant Description,1585824,Organ Transplant Description: Heart
+1585806,Organ Transplant: Organ Transplant Description,1585825,Organ Transplant Description: Kidney
+1585806,Organ Transplant: Organ Transplant Description,1585826,Organ Transplant Description: Liver
+1585806,Organ Transplant: Organ Transplant Description,1585827,Organ Transplant Description: Lung
+1585806,Organ Transplant: Organ Transplant Description,1585828,Organ Transplant Description: Pancreas
+1585806,Organ Transplant: Organ Transplant Description,1585829,Organ Transplant Description: Intestine
+1585806,Organ Transplant: Organ Transplant Description,1585830,Organ Transplant Description: Cornea
+1585806,Organ Transplant: Organ Transplant Description,1585831,Organ Transplant Description: Bone
+1585806,Organ Transplant: Organ Transplant Description,1585832,Organ Transplant Description: Valve
+1585806,Organ Transplant: Organ Transplant Description,1585833,Organ Transplant Description: Skin
+1585806,Organ Transplant: Organ Transplant Description,1585834,Organ Transplant Description: Blood Vessels
+1585811,Pregnancy: 1 Pregnancy Status,903079,PMI: Prefer Not To Answer
+1585811,Pregnancy: 1 Pregnancy Status,903096,PMI: Skip
+1585811,Pregnancy: 1 Pregnancy Status,1585812,1 Pregnancy Status: Yes
+1585811,Pregnancy: 1 Pregnancy Status,1585813,1 Pregnancy Status: No
+1585811,Pregnancy: 1 Pregnancy Status,1585814,1 Pregnancy Status: Dont Know
+1585815,Overall Health: Outside Travel 6 Month,903096,PMI: Skip
+1585815,Overall Health: Outside Travel 6 Month,1585816,Outside Travel 6 Month: Yes
+1585815,Overall Health: Outside Travel 6 Month,1585817,Outside Travel 6 Month: No
+1585815,Overall Health: Outside Travel 6 Month,1585818,Outside Travel 6 Month: Dont Know
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,903096,PMI: Skip
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,2000000010,Response removed due to invalid value
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,1
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,3
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,4
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,5
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,7
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,10
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,11
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,12
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,13
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,14
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,15
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,17
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,21
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,22
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,23
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,30
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,60
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,180
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,6
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,8
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,16
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,19
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,255
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,2
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,38
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,9
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,27
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,45
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,85
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,90
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,20
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,35
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,215
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,24
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,25
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,28
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,40
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,18
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,100
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,64
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,26
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,89
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,120
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,31
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,95
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,250
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,43
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,44
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,140
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,185
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,29
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,50
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,150
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,0
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,33
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,42
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,63
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,109
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,105
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,75
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,190
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,34
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,57
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,39
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,210
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,65
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,49
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,52
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,167
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,55
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,72
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,70
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,110
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,200
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,56
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,130
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,144
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,80
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,32
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,230
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,93
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,68
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,58
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,115
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,182
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,165
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,79
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,225
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,103
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,127
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,112
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,175
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,41
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,74
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,36
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,62
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,97
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,71
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,76
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,78
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,102
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,135
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,87
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,240
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,132
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,46
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,145
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,153
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,77
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,91
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,69
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,53
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,48
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,37
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,188
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,158
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,147
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,67
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,47
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,254
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,82
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,73
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,51
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,160
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,117
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,227
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,92
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,108
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,86
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,83
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,61
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,213
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,84
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,208
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,170
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,168
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,179
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,155
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,111
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,88
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,107
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,126
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,122
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,239
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,189
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,125
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,59
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,220
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,253
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,106
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,96
+1585820,Outside Travel 6 Month: Outside Travel 6 Month How Long,,98
